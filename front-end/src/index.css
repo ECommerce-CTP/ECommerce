@@ -34,7 +34,7 @@ main{
 
 /* Indivdual product selection*/
 .product-item{
-  border:#404040 solid;
+ 
   margin: 1rem;
 }
 /*Product image selection*/
@@ -45,4 +45,13 @@ main{
 /*product info selction*/
 .product-info{
   padding:1rem;
+}
+
+.rating span {
+  color:#ffc000;
+}
+
+.btn-primary{
+  background-color: #ffc000;
+  color: #000000;
 }
