@@ -1,4 +1,4 @@
-# SUGU WEBSITE E-Commerce
+# E-Commerce
 
 # Part 1
 1. installation
@@ -40,3 +40,8 @@
 3. use state hook
 4. use effect hook
 5. use reducer hook
+
+# Create Product and Rating Componentt
+1. Create Rating component
+2. Create Card component for product
+3. Use Rating component in Card component
